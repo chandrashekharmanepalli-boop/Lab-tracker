@@ -1,0 +1,8 @@
+/* App.css — kept minimal, all styles in index.css */
+
+/* Mobile sidebar toggle fix */
+@media (max-width: 1024px) {
+  #mobile-menu-btn {
+    display: flex !important;
+  }
+}
